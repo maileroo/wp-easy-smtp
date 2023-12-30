@@ -6,8 +6,8 @@ Tags: smtp, wordpress smtp, gmail, sendgrid, mailgun, maileroo, mail, mailer, ph
 Requires at least: 4.3
 Tested up to: 4.3
 Stable tag: 6.4
-License: MIT
-License URI: https://opensource.org/license/mit/
+License: GPL-3.0
+License URI: https://www.gnu.org/licenses/gpl.html
 
 Streamline WordPress email delivery with universal SMTP compatibility, including Gmail, Outlook, <a href="https://maileroo.com">Maileroo</a>, SendGrid, Mailgun, and more - all-in-one SMTP plugin for reliable, user-friendly email integration.
    
